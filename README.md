@@ -1,1 +1,1 @@
-# latent-structure-llm
+# Latent Structure of LLM
